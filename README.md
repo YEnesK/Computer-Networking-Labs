@@ -1,2 +1,2 @@
 # Computer-Networking-Labs
-Working LAN, VLAN etc. in Network Technologies
+Working on LAN, VLAN etc. in Network Technologies with Cisco Packet Tracer
